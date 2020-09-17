@@ -16,3 +16,10 @@ MyHttpResponse：自定义响应类，根据请求做出响应。
 
 Test：主线程中启动Socket服务。
 
+<br/>
+
+####用谷歌或火狐测试：
+
+
+
+>http://localhost:8080/login?username=zhangsan&password=123123
